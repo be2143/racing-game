@@ -1,13 +1,10 @@
 # 🏁 Car Racing Game
-
 This is a 3D car racing game made for a workshop assignment. The game lets you choose different tracks and cars, and includes fun features like sound effects, a lap counter, and automatically driven opponent cars.
 ## 🎮 Game Overview
-
 The game starts with a **menu** where the player must:
 - Select the **environment**: Desert or Mountain
 - Choose a **car color**: Red, Blue, or Green
 - Click the **Start** button to begin the race
-
 During the race:
 - The player races through a 3-lap circuit
 - A **HUD** displays the current speed and lap number
@@ -16,6 +13,7 @@ During the race:
 - 3 opponent cars are automatically driven by AI
 
 The game is available on: https://be2143.github.io/racing-game/
+
 Watch a short demo video: 
 
 ## ✅ Implemented Features
