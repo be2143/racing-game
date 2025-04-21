@@ -5,6 +5,7 @@ The game starts with a **menu** where the player must:
 - Select the **environment**: Desert or Mountain
 - Choose a **car color**: Red, Blue, or Green
 - Click the **Start** button to begin the race
+
 During the race:
 - The player races through a 3-lap circuit
 - A **HUD** displays the current speed and lap number
