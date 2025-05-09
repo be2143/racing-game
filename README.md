@@ -15,7 +15,7 @@ During the race:
 
 The game is available on: https://be2143.github.io/racing-game/
 
-Watch a short demo video: [https://drive.google.com/file/d/1LGRSrIRGJhtNM5W4_4cReUkCyIw7Jfck/view?usp=sharing](https://youtu.be/hlIbJg8-MUk)
+Watch a short demo video: https://youtu.be/hlIbJg8-MUk
 
 ## ✅ Implemented Features
 
